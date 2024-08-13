@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d25bc8d-eed9-45a7-8cf0-f3be3ee9c4c0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-21/lib/src.zip!/java.base/java/util/List.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.10.2/junit-jupiter-api-5.10.2.jar!/org/junit/jupiter/api/Assertions.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/3.3.1/spring-data-commons-3.3.1-sources.jar!/org/springframework/data/repository/CrudRepository.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2itpel974lBbpJn4WCJd30uqpBE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ConfigServerApplication.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ConfigServiceApplication.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.CustomerServiceApplication.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.DiscoveryApplication.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.DiscoveryServerApplication.executor&quot;: &quot;Debug&quot;,
+    &quot;Docker.docker-compose.yml: Compose Deployment.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CustomerServiceApplicationTests.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.CustomerServiceTests.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.CustomerServiceTests.test_AddOrUpdate.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.CustomerServiceTests.test_FindAll.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.CustomerServiceTests.test_FindByCustomerUid.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.CustomerServiceTests.test_FindByUid.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/pnony/devprojects/sandabakery/discovery-server/pom.xml&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/pnony/devprojects/sandabakery/src/main/java/com/sandabakery/app/Main.java&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pnony\devprojects\sandabakery\customer-service\src\main\resources" />
+      <recent name="C:\Users\pnony\devprojects\sandabakery\services\config-server\src\main\resources\configurations" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MavenRunConfiguration" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.CustomerServiceTests.test_FindByUid">
+    <configuration name="CustomerServiceTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="customer-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sandabekery.customer_service.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sandabekery.customer_service.service" />
+      <option name="MAIN_CLASS_NAME" value="com.sandabekery.customer_service.service.CustomerServiceTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerServiceTests.test_AddOrUpdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="customer-service" />
+      <option name="PACKAGE_NAME" value="com.sandabekery.customer_service.service" />
+      <option name="MAIN_CLASS_NAME" value="com.sandabekery.customer_service.service.CustomerServiceTests" />
+      <option name="METHOD_NAME" value="test_AddOrUpdate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerServiceTests.test_FindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="customer-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sandabekery.customer_service.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sandabekery.customer_service.service" />
+      <option name="MAIN_CLASS_NAME" value="com.sandabekery.customer_service.service.CustomerServiceTests" />
+      <option name="METHOD_NAME" value="test_FindAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerServiceTests.test_FindByCustomerUid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="customer-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sandabekery.customer_service.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sandabekery.customer_service.service" />
+      <option name="MAIN_CLASS_NAME" value="com.sandabekery.customer_service.service.CustomerServiceTests" />
+      <option name="METHOD_NAME" value="test_FindByCustomerUid" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerServiceTests.test_FindByUid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="customer-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sandabekery.customer_service.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sandabekery.customer_service.service" />
+      <option name="MAIN_CLASS_NAME" value="com.sandabekery.customer_service.service.CustomerServiceTests" />
+      <option name="METHOD_NAME" value="test_FindByUid" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CustomerServiceTests.test_FindByUid" />
+        <item itemvalue="JUnit.CustomerServiceTests.test_FindByCustomerUid" />
+        <item itemvalue="JUnit.CustomerServiceTests.test_FindAll" />
+        <item itemvalue="JUnit.CustomerServiceTests.test_AddOrUpdate" />
+        <item itemvalue="JUnit.CustomerServiceTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d25bc8d-eed9-45a7-8cf0-f3be3ee9c4c0" name="Changes" comment="" />
+      <created>1720319829119</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720319829119</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sandabakery/app/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/customer-service/src/main/java/com/sandabekery/customer_service/sandabakery/service/impl/CustomerServiceImpl.java</url>
+          <line>148</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/customer-service/src/main/java/com/sandabekery/customer_service/sandabakery/service/impl/CustomerServiceImpl.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/sandabakery$CustomerServiceTests_test_AddOrUpdate.ic" NAME="CustomerServiceTests.test_AddOrUpdate Coverage Results" MODIFIED="1721575794065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+  </component>
+</project>
